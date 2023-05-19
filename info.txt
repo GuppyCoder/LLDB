@@ -1,0 +1,9 @@
+HelloWorld.cpp
+Goal was simply to learn how to attach the degugger and set a breakpoint.
+
+
+Container.cpp
+Goal was to watch variables and figure out how to get lldb to display the contents of the array.
+
+Vector.cpp
+Goal: See how the same lessons of Container will apply to a container in the standard library.
